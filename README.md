@@ -33,7 +33,3 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-## Used Car Api
- - Users get an estimate for how much their car is worth based on the make/model/year/mileage
-# myCarValue
